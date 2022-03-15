@@ -1,0 +1,15 @@
+C:\Users\Ian Dias\source\GFT-start-4\teste4\bin\Debug\net6.0\teste4.exe
+C:\Users\Ian Dias\source\GFT-start-4\teste4\bin\Debug\net6.0\teste4.deps.json
+C:\Users\Ian Dias\source\GFT-start-4\teste4\bin\Debug\net6.0\teste4.runtimeconfig.json
+C:\Users\Ian Dias\source\GFT-start-4\teste4\bin\Debug\net6.0\teste4.dll
+C:\Users\Ian Dias\source\GFT-start-4\teste4\bin\Debug\net6.0\ref\teste4.dll
+C:\Users\Ian Dias\source\GFT-start-4\teste4\bin\Debug\net6.0\teste4.pdb
+C:\Users\Ian Dias\source\GFT-start-4\teste4\obj\Debug\net6.0\teste4.csproj.AssemblyReference.cache
+C:\Users\Ian Dias\source\GFT-start-4\teste4\obj\Debug\net6.0\teste4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian Dias\source\GFT-start-4\teste4\obj\Debug\net6.0\teste4.AssemblyInfoInputs.cache
+C:\Users\Ian Dias\source\GFT-start-4\teste4\obj\Debug\net6.0\teste4.AssemblyInfo.cs
+C:\Users\Ian Dias\source\GFT-start-4\teste4\obj\Debug\net6.0\teste4.csproj.CoreCompileInputs.cache
+C:\Users\Ian Dias\source\GFT-start-4\teste4\obj\Debug\net6.0\teste4.dll
+C:\Users\Ian Dias\source\GFT-start-4\teste4\obj\Debug\net6.0\ref\teste4.dll
+C:\Users\Ian Dias\source\GFT-start-4\teste4\obj\Debug\net6.0\teste4.pdb
+C:\Users\Ian Dias\source\GFT-start-4\teste4\obj\Debug\net6.0\teste4.genruntimeconfig.cache
